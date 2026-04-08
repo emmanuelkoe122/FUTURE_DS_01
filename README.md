@@ -100,8 +100,8 @@ Before analysis, the dataset was cleaned and prepared using Excel:
 ---
 
 ## Dataset Source
-Sample Superstore Dataset (Tableau Public):  
-**https://public.tableau.com/app/learn/sample-data**
+Superstore Sales Dataset:  
+**https://www.kaggle.com/datasets/vivek468/superstore-dataset-final**
 
 ---
 
