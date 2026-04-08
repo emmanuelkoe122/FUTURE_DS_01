@@ -62,7 +62,9 @@ Before analysis, the dataset was cleaned and prepared using Excel:
 - Regional performance bar chart
 - Customer segment analysis
 - Interactive slicers for Date, Region, Category and Segment
-- Dashboard → **[Voir le Dashboard](https://github.com/emmanuelkoe122/FUTURE_DS_01/blob/main/Dashbord.png?raw=true)**
+- ## Dashboard
+
+![Dashboard](https://github.com/emmanuelkoe122/FUTURE_DS_01/blob/main/Dashbord.png?raw=true)
 
 ---
 
