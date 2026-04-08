@@ -62,7 +62,7 @@ Before analysis, the dataset was cleaned and prepared using Excel:
 - Regional performance bar chart
 - Customer segment analysis
 - Interactive slicers for Date, Region, Category and Segment
-- Dashboard → **[View Dashboard](dashbord.pnj)**
+- Dashboard → **[View Dashboard](dashbord.png)**
 
 ---
 
